@@ -6,7 +6,7 @@ Linux Based
 Behind The Veil, Make Noise Don't Be Heard 
 optimized • simplified • for everyone 
 Linux Based 
-Made By Sinbad
+Made By 1tayH
 No coding necessary
 Flood Your ISP with Random, Noisy Data to Protect Your Privacy on the Internet 
 
