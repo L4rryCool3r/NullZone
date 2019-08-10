@@ -1,0 +1,1 @@
+python NullZon3.py --config config.json
