@@ -1,0 +1,10 @@
+Pre-Flight Check
+
+    These instructions are intended specifically for checking which version of Python is installed.
+
+
+Check and Verify a Python Installation
+
+Check the version of Python installed with the following command:
+
+python --version
