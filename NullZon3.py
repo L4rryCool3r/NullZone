@@ -1,3 +1,8 @@
+"""
+    NAME : 1st.0.1  PYTHON
+    DATE : 10 - 04 - 2018
+    AUTHOR : LCSinBadLC
+"""
 import argparse
 import datetime
 import json
@@ -272,3 +277,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+    print "give me a bottle of rum!"
