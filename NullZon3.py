@@ -277,4 +277,7 @@ def main():
 
 if __name__ == '__main__':
     main()
-    print "give me a bottle of rum!"
+    
+    
+    
+    #print "give me a bottle of rum!"
